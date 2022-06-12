@@ -1,3 +1,5 @@
+package Java;
+
 class Solution {
     public int searchInsert(int[] nums, int target) {
         return searchInsert(nums, target, 0, nums.length - 1);

@@ -2,14 +2,16 @@
 
 ## Programming Language
 - Java
-- Python
-- C++
+- Python 3
 
 ## Subjects
 
 - Data Structure
   - Stack
+  - Array
 
 - Algorithm
   - Sorting
   - Searching
+
+- Other
