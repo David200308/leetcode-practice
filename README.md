@@ -1,4 +1,4 @@
-# leetcode-practice
+# Leetcode Practice
 
 ## Programming Language
 - Java
