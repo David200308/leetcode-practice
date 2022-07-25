@@ -14,6 +14,8 @@
 - Data Structure
   - Stack
   - Array
+  - Tree
+    - Binary Tree
 
 - Database
   - MySQL
