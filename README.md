@@ -7,17 +7,18 @@
 
 ## Subjects
 
-- Algorithm
+- Algorithms
   - Sorting
   - Searching
+  - Math
 
 - Data Structure
   - Stack
   - Array
   - Tree
     - Binary Tree
+    - Binary Search Tree
 
 - Database
   - MySQL
 
-- Other
