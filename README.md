@@ -14,6 +14,7 @@
 
 - Data Structure
   - Stack
+  - Queue
   - Array
   - Tree
     - Binary Tree
