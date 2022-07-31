@@ -11,6 +11,7 @@
   - Sorting
   - Searching
   - Math
+  - String Manipulation
 
 - Data Structure
   - Stack
