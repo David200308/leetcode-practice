@@ -17,6 +17,7 @@
   - Stack
   - Queue
   - Array
+  - Hash Table
   - Tree
     - Binary Tree
     - Binary Search Tree
