@@ -3,6 +3,7 @@
 ## Programming Language
 - Java
 - Python 3
+- C++
 - MySQL
 
 ## Subjects
@@ -21,6 +22,7 @@
   - Tree
     - Binary Tree
     - Binary Search Tree
+  - Graph
 
 - Database
   - MySQL
