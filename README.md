@@ -13,6 +13,7 @@
   - Searching
   - Math
   - String Manipulation
+  - Depth-First Search
 
 - Data Structure
   - Stack
