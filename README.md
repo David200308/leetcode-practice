@@ -20,6 +20,7 @@
   - Queue
   - Array
   - Hash Table
+  - LinkedList
   - Tree
     - Binary Tree
     - Binary Search Tree
